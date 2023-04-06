@@ -6,11 +6,18 @@
 //we can change that information latter
 
 //declare a variable
-  var firstNmae = 'pavel';
+  //var firstNmae = 'pavel';
 
 //use a variable
-console.log(firstNmae);
+//console.log(firstNmae);
 
 //change value
-  firstNmae = 'riajul islam';
-console.log(firstNmae)
+ // firstNmae = 'riajul islam';
+//console.log(firstNmae)
+
+
+  var firstName = 'riajul islam';
+console.log(firstName);
+
+firstName = 'pavel';
+console.log(firstName)
