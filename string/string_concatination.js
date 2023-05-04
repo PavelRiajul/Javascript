@@ -6,7 +6,12 @@ let string2 = '10';
 let newString = +string1 + +string2
 console.log( typeof newString)*/
 
-let firstNmae = 'Riajul';
-let lastNmae = 'Islam';
-let fullNmae = firstNmae +" "+ lastNmae
-console.log(fullNmae)
+/*let firstName = 'Riajul';
+let lastName = "islam";
+let newString = firstName +' '+lastName;
+console.log(newString)*/
+
+let string1 = '12';
+let string2 = '20';
+let newString = +string1 +  +string2
+console.log(  newString)

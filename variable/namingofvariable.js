@@ -24,3 +24,11 @@ console.log($firstname)
 //you cannot use spaces
 var first_name = 'riajul';//snake case writing
 var firstName = 'riajul'; //camel case writing*/
+var $name = 'khokun'
+console.log($name)
+var firstNmae = 'fahim'
+console.log(firstNmae)
+var last_name  = 'pavel'
+console.log(last_name)
+var drink1 = 24;
+console.log(drink1)

@@ -16,8 +16,13 @@
 //console.log(firstNmae)
 
 
-  var firstName = 'riajul islam';
+ /* var firstName = 'riajul islam';
 console.log(firstName);
 
 firstName = 'pavel';
-console.log(firstName)
+console.log(firstName)*/
+
+var firstNmae = 'riajul islam';
+console.log(firstNmae)
+ firstNmae = 'pavel';
+console.log(firstNmae)
